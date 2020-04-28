@@ -3,7 +3,7 @@
 Пластова Полина Игоревна
 ## Вариант № 13
 Найти точку **минимума** функции
-![]( "целевая функция")
+![](https://raw.githubusercontent.com/Plastova/lab6/master/images/1.jpg?token=AO3PZU4Y54YOWVEO5NSLXMC6VBGJ6 "целевая функция")
 ## Теоретическая часть
 
 ## Практическая часть
