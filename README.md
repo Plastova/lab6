@@ -3,4 +3,4 @@
 Пластова Полина Игоревна
 ## Вариант № 13
 Найти точку **минимума** функции
-![](//placehold.it/150x100)
+![](https://raw.githubusercontent.com/Plastova/lab6/master/aa.jpg?token=AO3PZU7PXQII2XBHOFOSY7S6VBAVY/150x100)
