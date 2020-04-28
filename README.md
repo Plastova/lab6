@@ -4,8 +4,8 @@
 ## Вариант № 13
 Найти точку **минимума** функции  
 ![](https://raw.githubusercontent.com/Plastova/lab6/master/aa3.jpg?token=AO3PZUYMJEFDCQBUFINGN4S6VBCFW "целевая функция")
-## Теоретическая часть
 
+## Теоретическая часть
 ## Практическая часть
 ### Результаты
 
