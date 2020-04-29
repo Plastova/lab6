@@ -10,6 +10,7 @@ return x1*x1-2*x1+2*x2*x2-32*x2+134.5;
 }
 
 int main () {
+	cout<<"\nSluchayniy poisk:\n"<<endl;
 	double alpha;
 	double x10, x20, x11, x21, h=1, eps=0.01;
 	int it=0;
@@ -42,4 +43,4 @@ int main () {
 	cout<<"Tochka min: "<<"("<<x11<<" , "<<x21<<")"<<endl<<endl;
 	cout<<"Kolichestvo iteratsiy: "<<it<<endl;
 	return 0;
-	}
+}
