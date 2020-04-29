@@ -10,6 +10,7 @@ double f(double x1, double x2) {
 
 
 int main () {
+	cout<<"\nNelder-Mid:\n"<<endl;
 	double x[7][5];
 	double s;
 	int a, b, c, it=0;
