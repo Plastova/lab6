@@ -29,6 +29,7 @@ void issled (int n){
 }
 
 int main() {	
+	cout<<"\nHooke-Jeeves:\n"<<endl;
 	int it=0;
 	x1=-13; 
 	x2=14;
